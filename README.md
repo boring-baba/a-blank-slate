@@ -11,6 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="the-ashish-mishra.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="the-ashish-mishra.github.io | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/adobe.svg" />][adobe]
 [<img align="left" alt="the-ashish-mishra.github.io | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="the-ashish-mishra.github.io | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="the-ashish-mishra.github.io | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/stackoverflow.svg" />][stackoverflow]
@@ -52,7 +53,7 @@
 [gmail]: mailto:ashishmishra037@gmail.com
 [codepen]: https://codepen.io/ashishtwitting
 [github]: https://github.com/a-blank-slate
-
+[adobe]: https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/14812471
 
 <br />
 <br />
