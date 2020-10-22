@@ -36,7 +36,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="the ashish mishra Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=the-ashish-mishra&show_icons=true&hide_border=true" />
+  <img align="left" alt="the ashish mishra Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=a-blank-slate&show_icons=true&hide_border=true" />
 
 </details>
 
