@@ -6,7 +6,12 @@
 If you want to copy an object or variable to the clipboard from the console, then use the below copy command. The below line will copy AABB text to the system clipboard.
 
         copy("AABB");
+#### Copy query param of page to Clipboard
 
+        const urlSearchParams = new URLSearchParams(window.location.search);
+        const params = Object.fromEntries(urlSearchParams.entries()); 
+        copy(params['pageId']);
+Run this command in chrome console, after opening the specific page, this will copy the value of pageId param to the system clipboard
 
 ## Couchbase
 
