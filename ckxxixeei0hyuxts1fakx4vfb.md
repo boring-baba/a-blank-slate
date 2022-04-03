@@ -1,5 +1,7 @@
 ## Elastic Search Cheatsheet
 
+%%[google-analytics]
+
 Recently in my project, we started working on improving our Search Capability. We were using the couchbase full-text search and wanted to move to something more powerful and dynamic. After going through multiple suggestions, we decided to go ahead with Elastic Search.
 This post includes all the necessary APIs you would need to build a simple search on  [Elastic](https://www.elastic.co/elastic-stack/), using  [Kibana](https://www.elastic.co/kibana/). 
 
