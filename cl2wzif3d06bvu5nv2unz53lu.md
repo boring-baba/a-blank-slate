@@ -8,20 +8,21 @@ There is another way to generate an unlimited Gmail email address by adding a (+
 
 Cloudflare Trick:
 We will use the free domain from the freedom website for this tutorial, if you already have a domain name registered with Cloudflare, then go to step 3.
-1. **Get Free Domain Name: ** Go to [freenom. com](https://www.freenom.com/), and register for an account. Once login to the website, search for a domain name that is available, then select the **.tk ** option and checkout. This domain is free of cost and valid for 1 year. On the checkout page, you can change the duration from 3 months to 12 months and then proceed for checkout. You will get your free domain name now. 
+
+** Step 1:**   **Get Free Domain Name: ** Go to [freenom. com](https://www.freenom.com/), and register for an account. Once login to the website, search for a domain name that is available, then select the **.tk ** option and checkout. This domain is free of cost and valid for 1 year. On the checkout page, you can change the duration from 3 months to 12 months and then proceed for checkout. You will get your free domain name now. 
 
 ![freenom.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1651989311235/X7AnSVa7t.gif align="center")
 
-2. Login or create a [Cloudflare](https://dash.cloudflare.com/login) account. Add your domain name to the Cloudflare dashboard. Now, Cloudflare will search for the existing domain name record for this domain and then ask you to modify it to point to Cloudflare name servers. Copy the name servers from Cloudflare, and go to freedom, domain management and replace the name servers. You need to wait for a few minutes till Cloudflare picks the new changes.
+**Step 2:**  Login or create a [Cloudflare](https://dash.cloudflare.com/login) account. Add your domain name to the Cloudflare dashboard. Now, Cloudflare will search for the existing domain name record for this domain and then ask you to modify it to point to Cloudflare name servers. Copy the name servers from Cloudflare, and go to freedom, domain management and replace the name servers. You need to wait for a few minutes till Cloudflare picks the new changes.
 
 ![cloudflare-nameservers-change.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1651991340568/gHSypxLDL.gif align="left")
 
-3. Now, go to the email section of Cloudflare, it will show some records are missing, you can click on a skip for now. Click on the Route tab and then click on Enable Email Routing. Cloudflare will show some options you just need to accept those recommendations and apply. Finally, it will give you an "Email Routing is enabled and routing emails." message. 
+**Step 3:**  Now, go to the email section of Cloudflare, it will show some records are missing, you can click on a skip for now. Click on the Route tab and then click on Enable Email Routing. Cloudflare will show some options you just need to accept those recommendations and apply. Finally, it will give you an "Email Routing is enabled and routing emails." message. 
 
 
 ![enable-email-record.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1651992112199/_0ULGkFs0.gif align="left")
 
-4. All set to create email addresses. Go to the Routes tab and scroll to the destination email address section, add your email address where you want to receive all emails for this domain. Once you verify the destination email address 
+**Step 4:**  All set to create email addresses. Go to the Routes tab and scroll to the destination email address section, add your email address where you want to receive all emails for this domain. Once you verify the destination email address 
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1651995048178/VwUtoDH5u.png align="left")
 
