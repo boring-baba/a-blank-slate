@@ -5,7 +5,7 @@
 - 🔭 I currently work as AEM FullStack Developer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess and discuss history, geography
 
 ### Connect with me:
@@ -37,7 +37,7 @@
 <br />
 <br />
 
-[website]: https://a-blank-slate.github.io
+[website]: https://blog.thecolorfulslate.com
 [twitter]: https://twitter.com/ashish_batman
 [linkedin]: https://www.linkedin.com/in/ashishmishra19
 [stackoverflow]: https://stackoverflow.com/users/7188713/ashish-mishra
